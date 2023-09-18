@@ -84,18 +84,14 @@ const langArray = {
         "en": "Production of a heavy-duty tray",
     },
     "video6": {
-        "ua": "Виробництво кабельросту модульної серії",
-        "en": "Production of modular cable ladders",
-    },
-    "video7": {
         "ua": "Виробництво дротяного лотку",
         "en": "Production of wire tray",
     },
-    "video8": {
+    "video7": {
         "ua": "Завод гарячого цинкування",
         "en": "Hot-dip galvanizing plant",
     },
-    "video9": {
+    "video8": {
         "ua": "Відвантаження готової продукції",
         "en": "Loading of finished products",
     },
